@@ -1,11 +1,4 @@
-- 👋 Hi, I’m @strokegmd
-- 👀 I’m interested in OSDev
-- 🌱 I’m currently learning Computer Vision
-- 💞️ I’m looking to collaborate on pendOS
-- 😄 Pronouns: govern/ment/hui/her
-- ⚡ Fun fact: Got a commit into repository from Pinus Torvalds
-- 🦼 I 13 btw xdxdxd 😼
-<!---
-strokegmd/strokegmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<b>👋 Hi, I'm @strokegmd</b>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strokegmd&show_icons=true&theme=dracula&layout=donut)<br><br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=strokegmd&show_icons=true&theme=dracula)
